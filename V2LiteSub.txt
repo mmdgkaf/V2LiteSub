@@ -1,1 +1,2 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.234:443?security=tls&encryption=none&type=ws&host=mmdgk.ir&path=/Cdw0rtV450pL0OIo?ed%3D2560&sni=mmdgk.ir&fp=randomized&alpn=h2,http/1.1&allowInsecure=true#@V2Lite
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.234:443?security=tls&encryption=none&type=ws&host=mmdgk.ir&path=/Cdw0rtV450pL0OIo?ed%3D2560&sni=mmdgk.ir&fp=randomized&alpn=h2,http/1.1&allowInsecure=true#@V2Lite-1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.net:443?type=ws&security=tls&path=%2FtMNBlgwhl9YMHyAF%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=1#@V2Lite-2
