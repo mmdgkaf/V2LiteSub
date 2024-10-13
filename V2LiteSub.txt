@@ -1,8 +1,6 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.96:443?security=tls&encryption=none&type=ws&host=mmdgk.ir&path=/Cdw0rtV450pL0OIo?ed%3D2560&sni=mmdgk.ir&fp=randomized&alpn=h2,http/1.1&allowInsecure=true#@V2Lite-1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.net:443?type=ws&security=tls&path=%2FtMNBlgwhl9YMHyAF%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=1#@V2Lite-2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.53:443?type=ws&security=tls&path=%2FtMNBlgwhl9YMHyAF%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=1#@V2Lite-3
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.15.13:443?type=ws&security=tls&path=%2FtMNBlgwhl9YMHyAF%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=1#@V2Lite-4
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.92.255:443?type=ws&security=tls&path=%2FtMNBlgwhl9YMHyAF%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=1#@V2Lite-5
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.31:443?type=ws&security=tls&path=%2FtMNBlgwhl9YMHyAF%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=1#@V2Lite-6
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.7.154:443?type=ws&security=tls&path=%2FtMNBlgwhl9YMHyAF%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=1#@V2Lite-7
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.51:443?type=ws&security=tls&path=%2FtMNBlgwhl9YMHyAF%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=1#@V2Lite-8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.29:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir#@V2Lite 1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.149:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir#@V2Lite 2
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.66:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir#@V2Lite 3
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.51:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir#@V2Lite 4
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.53:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir#@V2Lite 5
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.net:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir#@V2Lite 6
