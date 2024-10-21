@@ -2,7 +2,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.58:443?type=ws&security=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.147:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=true#@V2Lite-2
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=true#@V2Lite-3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.192:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=true#@V2Lite-4
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.111:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=true#@V2Lite-5
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.11.202:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=true#@V2Lite-5
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.net:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=true#@V2Lite-6
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.154:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=true#@V2Lite-7
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.178:443?type=ws&security=tls&path=%2FSRMylh9b1BP30Ae8%3Fed%3D2560&host=mmdgk.ir&fp=randomized&sni=mmdgk.ir&allowInsecure=true#@V2Lite-8
